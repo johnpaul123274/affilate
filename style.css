@@ -1,0 +1,129 @@
+h1{
+    background-color: black;
+    color: aqua;
+    border: azure 2px;
+    border-style: dashed;
+    font-style: italic;
+    text-align: center;
+  
+}
+body{
+    background-color: black;
+}
+/* Add a black background color to the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Style the "active" element to highlight the current page */
+  .topnav a.active {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  /* Style the search box inside the navigation bar */
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
+  
+  /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
+ 
+  #search{
+      float: right;
+      display: block;
+  }
+  body{
+      background-color:white;
+  }
+  #js{
+      border:white;
+      border-style: outset inset;
+      color: black;
+      background-image: url(./images/js\ image.png);
+      background-size: cover;
+      font-size: large;
+      font-weight: bold;
+  }
+#times{
+  color:red;
+  border-style: outset;
+}
+#pt{
+  border:white;
+  border-style: outset inset;
+  color: black;
+  background-image: url(./images/python.jpg);
+  background-size: cover;
+  font-size: large;
+  font-weight: bold;
+}
+#cs{
+  border:white;
+  border-style: outset inset;
+  color: black;
+  background-image: url(./images/C\ Language\ Course\ in\ Delhi.jpg);
+  background-size: cover;
+  font-size: large;
+  font-weight: bold;
+}
+#ht{ border:white;
+  border-style: outset inset;
+  color: black;
+  background-image: url(./images/html\ image.png);
+  background-size: cover;
+  font-size: large;
+  font-weight: bold;
+
+}
+#ct{border:white;
+  border-style: outset inset;
+  color: white;
+  background-image: url(./images/css-display.jpg);
+  background-size: cover;
+  font-size: large;
+  font-weight: bold;
+  font-size: 25px;
+
+}
+#st{
+  border:white;
+  border-style: outset inset;
+  color: rgb(22, 21, 21);
+  background-image: url(./images/sql.jpeg);
+  background-size: cover;
+  font-size: large;
+  font-weight: bold;
+  
+}
+footer{
+  display: fixed;
+  background-color: gray;
+  text-align: center;
+  text-decoration: honeydew;
+  font-style: oblique;
+  color:black;
+  width: 100%;
+}
