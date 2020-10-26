@@ -62,7 +62,7 @@ body{
       border:white;
       border-style: outset inset;
       color: black;
-      background-image: url(./images/js\ image.png);
+      background-image: url(./js\ image.png);
       background-size: cover;
       font-size: large;
       font-weight: bold;
@@ -84,7 +84,7 @@ body{
   border:white;
   border-style: outset inset;
   color: black;
-  background-image: url(./images/C\ Language\ Course\ in\ Delhi.jpg);
+  background-image: url(./C\ Language\ Course\ in\ Delhi.jpg);
   background-size: cover;
   font-size: large;
   font-weight: bold;
@@ -92,7 +92,7 @@ body{
 #ht{ border:white;
   border-style: outset inset;
   color: black;
-  background-image: url(./images/html\ image.png);
+  background-image: url(./html\ image.png);
   background-size: cover;
   font-size: large;
   font-weight: bold;
@@ -101,7 +101,7 @@ body{
 #ct{border:white;
   border-style: outset inset;
   color: white;
-  background-image: url(./images/css-display.jpg);
+  background-image: url(./css-display.jpg);
   background-size: cover;
   font-size: large;
   font-weight: bold;
@@ -112,7 +112,7 @@ body{
   border:white;
   border-style: outset inset;
   color: rgb(22, 21, 21);
-  background-image: url(./images/sql.jpeg);
+  background-image: url(./sql.jpeg);
   background-size: cover;
   font-size: large;
   font-weight: bold;
