@@ -13,3 +13,13 @@ function time(){
     document.querySelector("#times").innerHTML=`reading time in sec: ${counter}`;
 
 };
+function glow(){
+    var cool= document.querySelector("h1");
+if(cool.style.visibility=="hidden"){
+    cool.style.visibility="visible"
+}
+else{
+    cool.style.visibility="hidden"
+}
+};
+window.setInterval(glow,500);
